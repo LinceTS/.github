@@ -1,6 +1,4 @@
-## Lince Framework
-![Group 19](https://github.com/user-attachments/assets/ad1cdd07-5fa1-404a-a1d7-04933c4efdbf)
-
+![Group 23](https://github.com/LinceTS/.github/blob/main/profile/Group%2023.svg)
 <!--
 
 **Here are some ideas to get you started:**
